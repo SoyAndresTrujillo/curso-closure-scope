@@ -1,0 +1,1 @@
+# curso-closure-scope
