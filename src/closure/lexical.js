@@ -5,7 +5,7 @@ function myFunctionFather() {
 
     console.log(myGlobal);
 
-    function child(sds) {
+    function child() {
         const myVariableChild = 3;
 
         console.log(myGlobal, myVariableFather);
